@@ -1,0 +1,15 @@
+.clearfix{
+    content:'';display:block;clear:both;
+}
+
+hr{margin: 0;padding: 0;width: 300px;}
+ul,li{list-style:none;display: inline;}
+button{padding:5px 10px 5px 10px;}
+.Tool div{border: 1px red solid;}
+.Tool a{padding:5px 10px 5px 10px;}
+.Tool li{margin-bottom:5px;}
+/* .RemoteControl{position:relative;} */
+.Tool span{width: 300px;}
+
+
+
