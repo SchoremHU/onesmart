@@ -2,14 +2,16 @@
     content:'';display:block;clear:both;
 }
 
-hr{margin: 0;padding: 0;width: 300px;}
+hr{margin: 0;padding: 10px;width: 300px;}
 ul,li{list-style:none;display: inline;}
-button{padding:5px 10px 5px 10px;}
+
+button{padding:5px 10px 5px 10px;margin: 0 5px 0 5px;}
 .Tool div{border: 1px red solid;}
 .Tool a{padding:5px 10px 5px 10px;}
 .Tool li{margin-bottom:5px;}
-/* .RemoteControl{position:relative;} */
-.Tool span{width: 300px;}
+.RemoteControl,.onesmartContract,.SmartKeShiPiao{position:relative;}
+.Tool .toos{width: 400px;}
+#teamviewer,#wacomSTU,#keshipiao{position: absolute;left:400px;top:0;}
 
 
 
