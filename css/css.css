@@ -11,7 +11,8 @@ button{padding:3px 10px 3px 10px;margin: 0 5px 0 5px;}
 .Tool a{padding:5px 10px 5px 10px;}
 .Tool li{margin-bottom:5px; width: 300px;}
 .RemoteControl,.onesmartContract,.SmartKeShiPiao{position:relative;}
-
+pre{position: absolute;;height: 650px;width: 500px;}
+/* .fz{height: 650px;} */
 
 
 
